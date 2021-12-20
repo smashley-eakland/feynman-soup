@@ -6,8 +6,10 @@
   
   I have recreated the notebook and used the original lecture notebook as a guide with the sole intention of solidifying my understanding of the topic by using the Feynman Technique and "explaining" it to you in my Phase 2 blog post. I used snips from my modified notebook for demonstration purposes only in the blog post, and have cited the original both here and in the blog as well. Code and websites have been borrowed from the original lecture notebook, while markdown cells are my own. 
   
-  ### The original Flatiron notebook can be found here: https://github.com/flatiron-school/ds-webscraping-opw32
+  ### The original Flatiron notebook can be found [here](https://github.com/flatiron-school/ds-webscraping-opw32)
 
-  ### If you care to read the blog post, it can be found here: https://medium.com/@ashley_63724
+  ### If you care to read the blog post, it can be found on my [Medium Blog](https://medium.com/@ashley_63724)
   
- If you have any questions or concerns, please don't hesitate to reach out! Thank you!# feynman-soup
+ If you have any questions or concerns, please don't hesitate to reach out! Thank you!
+ 
+ #feynman-soup
