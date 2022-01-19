@@ -8,7 +8,7 @@
   
   ### The original Flatiron notebook can be found [here](https://github.com/flatiron-school/ds-webscraping-opw32)
 
-  ### If you care to read the blog post, it can be found on my [Medium Blog](https://medium.com/@smashley-eakland)
+  ### If you care to read the blog post, it can be found on my [Medium Blog](https://medium.com/@smashley_eakland)
   
  If you have any questions or concerns, please don't hesitate to reach out! Thank you!
  
